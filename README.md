@@ -56,6 +56,8 @@ Central database for warranty tracking
 Handles automation and notifications  
 ![Flow](screenshots/powerautomate.png)
 
+---
+
 ### ⚙️ System flow diagram
 New Warranty SOP
 <img width="1002" height="934" alt="image" src="https://github.com/user-attachments/assets/0f8becd8-4032-4633-b261-e522b4477550" />
