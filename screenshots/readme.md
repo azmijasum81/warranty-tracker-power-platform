@@ -5,7 +5,9 @@
 
 
 ### SharePoint List
-![SharePoint](screenshots/sharepoint.png)
+<img width="1906" height="949" alt="image" src="https://github.com/user-attachments/assets/5c381123-fd24-4c49-9d4e-750ca2ad31cd" />
+
+
 
 ### Power Automate Flow
-![Flow](screenshots/flow.png)
+<img width="1410" height="764" alt="image" src="https://github.com/user-attachments/assets/a44f546c-6bd2-4cb5-8bd3-a5375ee9d2d9" />
