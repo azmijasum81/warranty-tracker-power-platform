@@ -1,28 +1,24 @@
 # Warranty Tracker System
 
 ## Overview
-This project is a simple warranty tracking system built using Microsoft Power Platform tools.
+System to track warranty using Microsoft Forms, SharePoint, and Power Automate.
 
-## Tools Used
-- Microsoft Forms (data input)
-- SharePoint (data storage)
-- Power Automate (workflow automation)
+---
 
-## How It Works
-1. User submits warranty details via Microsoft Forms
-2. Data is stored in SharePoint list
-3. Power Automate processes the data:
-   - Sends notifications
-   - Tracks warranty expiry
-   - Updates status automatically
+## Screenshots
 
-## Features
-- Automated data collection
-- Centralized tracking
-- Notification alerts for expiry
+### 📋 Microsoft Form
+User submits warranty details  
+![Form](screenshots/BHeroform.png)
 
-## Use Case
-Helps manage product warranties efficiently without manual tracking.
+---
 
-## Status
-Completed ✅
+### 📊 SharePoint List
+Stores all warranty data  
+![SharePoint](screenshots/sharelistpoint.png)
+
+---
+
+### ⚙️ Power Automate Flow
+Handles automation and notifications  
+![Flow](screenshots/powerautomate.png)
